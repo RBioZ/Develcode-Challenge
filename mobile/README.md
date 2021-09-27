@@ -37,6 +37,11 @@ $ yarn install
 
 ```
 
+## 🔖 Layout
+
+https://www.figma.com/file/8jwu6O3GjQf5TkfQtFzB3h/DevelCode?node-id=0%3A1
+
 ### Para conectar ao backend:
 
 Vá para a pasta /src/services e mude o endereço do backend
+
